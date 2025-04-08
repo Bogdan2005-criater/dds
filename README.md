@@ -81,7 +81,7 @@
   - Веб-интерфейс: React + TypeScript + Chakra UI.  
   - Мобильное приложение: React Native (Android/iOS).  
 - **Backend**:  
-  - Язык: C# ASP.NET Core.  
+  - Язык: Python.  
   - База данных: PostgreSQL.  
   - Аутентификация: JWT.  
 - **Инфраструктура**:  
